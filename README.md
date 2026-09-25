@@ -4,4 +4,4 @@ Repositorio de laboratorio sobre tokenización, ventana de contexto, temperatura
 
 * [Bitácora de prompts](promptS/BITACORA.md)
 * [Tarea: Mi prompt profesional](promptS/TAREA.md)
-* [Simulador](simulador/index.html)
+
