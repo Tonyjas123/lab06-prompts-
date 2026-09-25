@@ -2,6 +2,6 @@
 
 Repositorio de laboratorio sobre tokenización, ventana de contexto, temperatura y diseño de prompts.
 
-- [Bitácora de prompts](prompts/BITACORA.md)
-
-* [Tarea: Mi prompt profesional](prompts/TAREA.md)
+* [Bitácora de prompts](promptS/BITACORA.md)
+* [Tarea: Mi prompt profesional](promptS/TAREA.md)
+* [Simulador](simulador/index.html)
