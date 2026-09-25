@@ -83,4 +83,4 @@ El objetivo es solicitar a un Asistente de IA el diseño y desarrollo del códig
 
 ### Archivo TAREA.md renderizado en GitHub
 
-![TAREA renderizado en GitHub](img/captura-github-tarea.png)
+![TAREA renderizado en GitHub](img/Captura%20de%20pantalla%202026-09-24%20223402.png)
